@@ -1,0 +1,38 @@
+
+body {
+    font-family: Arial;
+    background-color: lightblue;
+    margin: 0;
+}
+
+h1 {
+    background-color: #020202;
+    color: white;
+    text-align: center;
+    padding: 30px;
+    margin: 0;
+}
+
+.news {
+    background-color: yellow;
+    border: 3px solid red;
+    padding: 20px;
+    margin: 30px;
+    border-radius: 15px;
+}
+
+.news1 {
+    background-color: #c8c8c2;
+    border: 3px solid red;
+    padding: 20px;
+    margin: 30px;
+    border-radius: 15px;
+}
+
+h2 {
+    color: red;
+}
+
+p {
+    color: darkblue;
+}
